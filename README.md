@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning  Java/Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me - www.krrajnish.com 
+- 📫 Reach me - mail.krrajnish@gmail.com  vist www.krrajnish.com 
 
 <!---
 Rajnish11/Rajnish11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
