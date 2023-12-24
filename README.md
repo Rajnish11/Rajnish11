@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajnish11
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning  Java/Flutter
+- 👀 I’m interested in Full-stack Development
+- 🌱 I’m currently learning  back-end
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me - mail.krrajnish@gmail.com  vist www.krrajnish.com 
 
